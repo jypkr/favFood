@@ -1,0 +1,10 @@
+.foodname {
+	display: flex;
+	justify-content: center;
+	font-size: xx-large;
+	color: wheat
+}
+
+#background {
+	background-color: teal;
+}
